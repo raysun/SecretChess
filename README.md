@@ -11,3 +11,5 @@ Here's a [demo video](http://www.youtube.com/watch?v=nqNIBt03uVk).
 #### Download
 Download the [beta](https://dl.dropboxusercontent.com/u/1971118/SurpriseChess/Secret%20Chess%20Beta.html).
 
+Thanks,
+Ray Sun
